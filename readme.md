@@ -1,5 +1,8 @@
 # BECODE - ANIMATION CSS
 
+## Voyez le résultat ici : https://vieirahenrique.github.io/becode-animation-css/
+
+---
 Cet exercice fait partie du module "La prairie" de la formation WebDev Junior chez BeCode. Il est dédié à l'animation CSS.
 
 Deux sortes d'animation y sont abbordées :
@@ -32,4 +35,4 @@ Si l'animation dans une page web a longtemps été commandé par JavaScript, CSS
 
 ---
 
-Voyez dans le fichier html **ici** quelques exemples d'animations faites exclusivement avec CSS.
+Voyez dans le fichier html [ici](https://vieirahenrique.github.io/becode-animation-css/) quelques exemples d'animations faites exclusivement avec CSS.
